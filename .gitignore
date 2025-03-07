@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage
+/public/upload
+/storage/*.key
+storage/fonts/dompdf_font_family_cache.php
+/storage/debugbar
+/.idea/*
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.phpunit.result.cache
+.env
+.env.backup
+/vendor
+/resources/lang
