@@ -15,7 +15,7 @@ return [
     */
     
     'developed_label' => 'Powered By',
-    'developed_by' => 'E-Account',
+    'developed_by' => 'Syncabout',
     'developed_link' => 'http://www.eaccount.xyz',
     'version' => '2.0.0',
 

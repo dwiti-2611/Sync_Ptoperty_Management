@@ -3,7 +3,7 @@
         <div @if($is_rtl) dir="rtl"  @endif class="rtl-supported-navbar">
             <div class="navbar-header">
                 <a href="javascript:void(0);" class="bars"></a>
-                <a class="navbar-brand" href="{{ route('dashboard') }}"><?php echo Config::get('settings.company_name'); ?></a>
+                <a class="navbar-brand" href="{{ route('dashboard') }}">SYNC PROPERTY MANAGEMENT</a>
             </div>
             <div>
                 <a href="javascript:void(0);" class="dropdown-toggle text-white" data-toggle="dropdown" role="button"
